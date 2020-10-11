@@ -10,7 +10,7 @@ Les exercices seront principalement basés sur l'apprentissage des boucles for a
 
 ### Exercices 
 
-Noter ici la formulation du prof sur les exercices
+Ecrivez un programme qui affiche un triangle d’étoiles en utilisant des boucles for imbriquées 
 
 ### Exercice 1
 

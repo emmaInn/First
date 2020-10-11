@@ -1,10 +1,6 @@
 ## Bienvenue sur notre page Github 
 
-You can use the [editor on GitHub](https://github.com/programming-liftoff/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Vous pouvez retrouver tous les projets et code réalisé par notre département sur [CDMV on Github]().
-
-Le thème de notre page Github n'est autre que [Jekyll](https://jekyllrb.com/). Un hyperlien permet d'en savoir plus sur ce qu'il est possible de faire avec Jekyll. 
+Vous pouvez retrouver tous les projets et code réalisé par notre département sur [Java by CM & VD on Github]().
 
 Notre page Github sera dédié à la réalisation de différents exercices en Java. 
 
@@ -16,6 +12,8 @@ Les exercices seront principalement basés sur l'apprentissage des boucles for a
 
 Noter ici la formulation du prof sur les exercices
 
+### Exercice 1
+
 ```markdown
 
 *
@@ -31,7 +29,7 @@ Noter ici la formulation du prof sur les exercices
 
 ```
 
-Exercices 2 
+### Exercice 2 
 
 ```markdown
 
@@ -48,7 +46,7 @@ Exercices 2
 
 ```
 
-Exercices 3
+### Exercice 3
 
 ```markdown
 
@@ -65,7 +63,7 @@ Exercices 3
 
 ```
 
-Exercices 4 
+### Exercice 4 
 
 ```markdown
 
@@ -84,7 +82,7 @@ Exercices 4
 
 ## Solutions
 
-# Exercice 1
+### Exercice 1
 
 ```markdown
 
@@ -105,7 +103,7 @@ System.out.println( ) ;
 
 ```
 
-# Exercice 2
+### Exercice 2
 
 ```markdown
 
@@ -125,7 +123,7 @@ System.out.println( ) ;
 
 ```
 
-# Exercice 3
+### Exercice 3
 
 ```markdown
 
@@ -149,7 +147,7 @@ System.out.println( ) ;
 
 ```
 
-# Exercice 4
+### Exercice 4
 
 ```markdown
 
@@ -173,9 +171,7 @@ System.out.println( ) ;
 
 ```
 
-Mettre un fichier zip avec les static en plus pour avoir tout 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Mettre un fichier zip avec les static en plus pour avoir tout 
 
 ### Jekyll Themes
 
